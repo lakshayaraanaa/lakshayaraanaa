@@ -11,7 +11,6 @@
 ---
 
 ## ⚛️ About Me
-
 ```javascript
 const developer = {
   name:           "Lakshay",
@@ -100,7 +99,7 @@ export default developer;
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lakshayaraanaa&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
