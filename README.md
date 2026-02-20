@@ -1,39 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0d1117&height=200&section=header&text=Lakshay&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=React%20Developer%20%E2%80%A2%20Full-Stack%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2744,100:00f7ff&height=220&section=header&text=Lakshaya%20Raanaa%20P&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚛️%20React%20%7C%20Full-Stack%20%7C%20MERN%20%7C%20Backend%20Developer&descAlignY=60&descSize=17&descColor=00f7ff"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=const+passion+%3D+%22Building+things+that+matter%22%3B;React+%E2%9A%9B+%7C+Node.js+%F0%9F%8C%BF+%7C+MongoDB+%F0%9F%8D%83;Turning+ideas+into+pixel-perfect+products+%F0%9F%9A%80;Open+to+Opportunities+%E2%80%94+Let%27s+build+together!+%F0%9F%A4%9D" alt="Typing SVG" />
+<!-- BADGES ROW -->
+![Profile Views](https://komarev.com/ghpvc/?username=lakshayaraanaa&label=👁️%20Profile%20Views&color=00f7ff&style=flat-square&labelColor=0d1117)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/lakshayaraanaa?label=👥%20Followers&style=flat-square&color=7c3aed&labelColor=0d1117)](https://github.com/lakshayaraanaa)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-0A66C2?style=flat-square&labelColor=0d1117)](https://www.linkedin.com/in/lakshayaraanaa-p-3a0b78313/)
+&nbsp;
+![Status](https://img.shields.io/badge/🟢%20Status-Open%20to%20Work-00d26a?style=flat-square&labelColor=0d1117)
 
-<br/><br/>
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=lakshayaraanaa&label=Profile%20Views&color=61DAFB&style=flat-square)](https://github.com/lakshayaraanaa)
-[![GitHub Followers](https://img.shields.io/github/followers/lakshayaraanaa?label=Followers&style=flat-square&color=61DAFB&labelColor=0d1117)](https://github.com/lakshayaraanaa?tab=followers)
-[![Available for Work](https://img.shields.io/badge/Available%20for%20Work-Yes%20✓-39d353?style=flat-square&labelColor=0d1117)](mailto:lakshayaraanaa@github.com)
+<!-- ROLE BADGE PILLS -->
+![React](https://img.shields.io/badge/⚛️_REACT_DEV-61DAFB?style=for-the-badge&labelColor=0d1117&color=61DAFB)
+![TypeScript](https://img.shields.io/badge/💙_TYPESCRIPT-3178C6?style=for-the-badge&labelColor=0d1117&color=3178C6)
+![Node](https://img.shields.io/badge/🌿_NODE.JS-339933?style=for-the-badge&labelColor=0d1117&color=339933)
+![JavaScript](https://img.shields.io/badge/⚡_JAVASCRIPT-F7DF1E?style=for-the-badge&labelColor=0d1117&color=F7DF1E)
+![MongoDB](https://img.shields.io/badge/🍃_MONGODB-47A248?style=for-the-badge&labelColor=0d1117&color=47A248)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🪪 Profile Card
 
-```javascript
-const developer = {
-  name:           "Lakshay",
-  title:          "React Developer & Full-Stack Engineer",
-  location:       "India 🇮🇳",
-  github:         "@lakshayaraanaa",
-
-  stack:          ["React", "Next.js", "Node.js", "Express", "MongoDB", "JavaScript"],
-  currentProject: "BuyByBest — E-Commerce Platform 🛒",
-  learning:       ["TypeScript", "Docker", "System Design"],
-
-  available:      true,   // ← open to opportunities!
-  funFact:        "I turn coffee into React components ☕",
-}
-
-export default developer;
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║  ██╗      █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗ ██╗   ██╗ █████╗  ║
+║  ██║     ██╔══██╗██║ ██╔╝██╔════╝██║  ██║██╔══██╗╚██╗ ██╔╝██╔══██╗ ║
+║  ██║     ███████║█████╔╝ ███████╗███████║███████║ ╚████╔╝ ███████║ ║
+║  ██║     ██╔══██║██╔═██╗ ╚════██║██╔══██║██╔══██║  ╚██╔╝  ██╔══██║ ║
+║  ███████╗██║  ██║██║  ██╗███████║██║  ██║██║  ██║   ██║   ██║  ██║ ║
+║  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ║
+║                                                                      ║
+║  ┌────────────────────────────────────────────────────────────┐     ║
+║  │  👤  Name      →  Lakshaya Raanaa P                        │     ║
+║  │  📍  Location  →  Madurai, Tamil Nadu, India 🇮🇳            │     ║
+║  │  💼  Role      →  Full Stack | MERN | React | Backend      │     ║
+║  │  📧  Email     →  lakshayaraanaap@gmail.com                │     ║
+║  │  🔗  LinkedIn  →  linkedin.com/in/lakshayaraanaa-p-3a0b78313│    ║
+║  │  🐙  GitHub    →  github.com/lakshayaraanaa               │     ║
+║  │  🟢  Status    →  Open to Opportunities ✅                  │     ║
+║  └────────────────────────────────────────────────────────────┘     ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -42,26 +58,7 @@ export default developer;
 
 <div align="center">
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Learning**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,firebase,html,css,tailwind,bootstrap,git,github,vscode,postman&perline=8&theme=dark" />
 
 </div>
 
@@ -69,106 +66,69 @@ export default developer;
 
 ## 🚀 Featured Projects
 
-<div align="center">
 <table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🛒 BuyByBest — Frontend</h3>
-      <p>A modern, responsive e-commerce frontend. Features a smooth product catalog, shopping cart, and clean UI built entirely with vanilla JavaScript.</p>
-      <a href="https://github.com/lakshayaraanaa/BuyByBest-FrontEnd">
-        <img src="https://img.shields.io/badge/View%20Repo-%2361DAFB?style=for-the-badge&logo=github&logoColor=black" />
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-    <td width="50%" align="center">
-      <h3>⚙️ BuyByBest — Backend</h3>
-      <p>Robust REST API powering BuyByBest. Includes authentication, product management, order processing, and more — production-ready architecture.</p>
-      <a href="https://github.com/lakshayaraanaa/BuyByBest-BackEnd">
-        <img src="https://img.shields.io/badge/View%20Repo-%234ade80?style=for-the-badge&logo=github&logoColor=black" />
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🌐 My Portfolio</h3>
-      <p>Personal portfolio showcasing my projects, skills, and journey. Clean design with smooth animations and fully responsive layout.</p>
-      <a href="https://github.com/lakshayaraanaa/my-portfolio">
-        <img src="https://img.shields.io/badge/View%20Portfolio-%23c084fc?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Responsive-✓-39d353?style=flat-square" />
-    </td>
-    <td width="50%" align="center">
-      <h3>🔮 Coming Soon...</h3>
-      <p>Always building something new. Follow me on GitHub to stay updated on my latest experiments and side projects!</p>
-      <a href="https://github.com/lakshayaraanaa">
-        <img src="https://img.shields.io/badge/Follow%20Along-%23f9c74f?style=for-the-badge&logo=github&logoColor=black" />
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-WIP-007ACC?style=flat-square" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 BuyByBest — E-Commerce
+Amazon-style full-stack shopping platform with product listing, cart, order history & admin panel.
+
+[![Frontend](https://img.shields.io/badge/🌐_Frontend-Repo-00f7ff?style=for-the-badge&labelColor=0d1117)](https://github.com/lakshayaraanaa/BuyByBest-FrontEnd)
+[![Backend](https://img.shields.io/badge/⚙️_Backend-Repo-7c3aed?style=for-the-badge&labelColor=0d1117)](https://github.com/lakshayaraanaa/BuyByBest-BackEnd)
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+✅ Product Listing · Cart · Order History · Admin Panel
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 My Portfolio
+Personal developer portfolio showcasing projects, skills and experience.
+
+[![Repo](https://img.shields.io/badge/🐙_GitHub-Repo-00f7ff?style=for-the-badge&labelColor=0d1117)](https://github.com/lakshayaraanaa/my-portfolio)
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+✅ Responsive Design · Project Showcase · Skills · Contact
+
+</td>
+</tr>
 </table>
-</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshayaraanaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshayaraanaa&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=ff6b6b&currStreakLabel=61DAFB" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshayaraanaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff&langs_count=8" width="40%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshayaraanaa&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshayaraanaa/lakshayaraanaa/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshayaraanaa/lakshayaraanaa/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/lakshayaraanaa/lakshayaraanaa/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-> 💡 **To enable the snake animation**, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml` → [Click here for the action config](https://github.com/Platane/snk)
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-Open to **collaborations**, **freelance projects** & **full-time opportunities**.  
-Let's build something amazing together! 🚀
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=lakshayaraanaa&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=f59e0b&currStreakLabel=00f7ff&sideLabels=e6edf3&dates=7d8590&stroke=21262d&currStreakNum=e6edf3&sideNums=e6edf3" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-lakshayaraanaa-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshayaraanaa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Site-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/lakshayaraanaa/my-portfolio)
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshayaraanaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=e6edf3&langs_count=8" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshayaraanaa&bg_color=0d1117&color=00f7ff&line=7c3aed&point=f59e0b&area=true&area_color=00f7ff&hide_border=true&radius=6" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshayaraanaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshayaraanaa-p-3a0b78313/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshayaraanaap@gmail.com)
+[![BuyByBest](https://img.shields.io/badge/🛒_BuyByBest-Project-00f7ff?style=for-the-badge&labelColor=0d1117)](https://github.com/lakshayaraanaa/BuyByBest-FrontEnd)
 
 </div>
 
@@ -176,10 +136,10 @@ Let's build something amazing together! 🚀
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:7c3aed,100:0d1117&height=130&section=footer&text=Made%20with%20❤️%20by%20Lakshaya%20Raanaa%20P&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=72"/>
+
 **⚛ "First, solve the problem. Then, write the code." ⚛**
 
-*Built with ❤️ by Lakshay — @lakshayaraanaa*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:61DAFB&height=120&section=footer" width="100%" />
+*Madurai, Tamil Nadu 🇮🇳 · Built with ❤️ + ☕ by Lakshaya Raanaa P*
 
 </div>
