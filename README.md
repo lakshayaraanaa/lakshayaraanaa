@@ -109,11 +109,7 @@ Personal developer portfolio showcasing projects, skills and experience.
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=lakshayaraanaa&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=f59e0b&currStreakLabel=00f7ff&sideLabels=e6edf3&dates=7d8590&stroke=21262d&currStreakNum=e6edf3&sideNums=e6edf3" />
 
-<br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshayaraanaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=e6edf3&langs_count=8" />
-
-<br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshayaraanaa&bg_color=0d1117&color=00f7ff&line=7c3aed&point=f59e0b&area=true&area_color=00f7ff&hide_border=true&radius=6" />
 
