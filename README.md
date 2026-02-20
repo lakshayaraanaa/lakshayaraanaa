@@ -10,22 +10,6 @@
 
 ---
 
-## ⚛️ About Me
-```javascript
-const developer = {
-  name:           "Lakshay",
-  title:          "React Developer & Full-Stack Engineer",
-  location:       "India 🇮🇳",
-  github:         "@lakshayaraanaa",
-  stack:          ["React", "Next.js", "Node.js", "Express", "MongoDB", "JavaScript"],
-  currentProject: "BuyByBest — E-Commerce Platform",
-  learning:       ["TypeScript", "Docker", "System Design"],
-  available:      true, // open to opportunities!
-  funFact:        "I turn coffee into React components ☕"
-}
-
-export default developer;
-```
 
 ---
 
