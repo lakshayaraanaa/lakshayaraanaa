@@ -52,8 +52,6 @@
 ```
 ---
 
-i want a full name "Lakshayaraanaa"
-
 ## ⚡ Tech Stack
 
 <div align="center">
